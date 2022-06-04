@@ -1,1 +1,1 @@
-# www.patika.dev bootstrap eğitimde yaptığım ilk çalışma.
+# www.patika.dev bootstrap eğitiminde yaptığım ilk çalışma.
