@@ -1,0 +1,12 @@
+.lg-gradient {
+    background: rgb(173,139,115);
+    background-image: linear-gradient(to bottom, #8e3200, #a45a25, #b9804b, #cea576, #e3caa5);
+}
+
+.lg-gradient-res {
+    background-image: linear-gradient(to bottom, #e3caa5, #cea576, #b9804b, #a45a25, #8e3200);
+}
+
+.bg-sgrey{
+    background-color: #cac3c3;
+}
